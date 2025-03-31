@@ -1,0 +1,191 @@
+Year,City,Population (in Lakhs) (2011)+,Type
+2025,Ahmedabad,63.5,Murder
+2025,Bengaluru,85,Murder
+2025,Chennai,87,Murder
+2025,Coimbatore,21.5,Murder
+2025,Delhi,163.1,Murder
+2025,Ghaziabad,23.6,Murder
+2025,Hyderabad,77.5,Murder
+2025,Indore,21.7,Murder
+2025,Jaipur,30.7,Murder
+2025,Kanpur,29.2,Murder
+2025,Kochi,21.2,Murder
+2025,Kolkata,141.1,Murder
+2025,Kozhikode,20.3,Murder
+2025,Lucknow,29,Murder
+2025,Mumbai,184.1,Murder
+2025,Nagpur,25,Murder
+2025,Patna,20.5,Murder
+2025,Pune,50.5,Murder
+2025,Surat,45.8,Murder
+2025,Ahmedabad,63.5,Kidnapping
+2025,Bengaluru,85,Kidnapping
+2025,Chennai,87,Kidnapping
+2025,Coimbatore,21.5,Kidnapping
+2025,Delhi,163.1,Kidnapping
+2025,Ghaziabad,23.6,Kidnapping
+2025,Hyderabad,77.5,Kidnapping
+2025,Indore,21.7,Kidnapping
+2025,Jaipur,30.7,Kidnapping
+2025,Kanpur,29.2,Kidnapping
+2025,Kochi,21.2,Kidnapping
+2025,Kolkata,141.1,Kidnapping
+2025,Kozhikode,20.3,Kidnapping
+2025,Lucknow,29,Kidnapping
+2025,Mumbai,184.1,Kidnapping
+2025,Nagpur,25,Kidnapping
+2025,Patna,20.5,Kidnapping
+2025,Pune,50.5,Kidnapping
+2025,Surat,45.8,Kidnapping
+2025,Ahmedabad,63.5,Crime against women
+2025,Bengaluru,85,Crime against women
+2025,Chennai,87,Crime against women
+2025,Coimbatore,21.5,Crime against women
+2025,Delhi,163.1,Crime against women
+2025,Ghaziabad,23.6,Crime against women
+2025,Hyderabad,77.5,Crime against women
+2025,Indore,21.7,Crime against women
+2025,Jaipur,30.7,Crime against women
+2025,Kanpur,29.2,Crime against women
+2025,Kochi,21.2,Crime against women
+2025,Kolkata,141.1,Crime against women
+2025,Kozhikode,20.3,Crime against women
+2025,Lucknow,29,Crime against women
+2025,Mumbai,184.1,Crime against women
+2025,Nagpur,25,Crime against women
+2025,Patna,20.5,Crime against women
+2025,Pune,50.5,Crime against women
+2025,Surat,45.8,Crime against women
+2025,Ahmedabad,63.5,Crime against children
+2025,Bengaluru,85,Crime against children
+2025,Chennai,87,Crime against children
+2025,Coimbatore,21.5,Crime against children
+2025,Delhi,163.1,Crime against children
+2025,Ghaziabad,23.6,Crime against children
+2025,Hyderabad,77.5,Crime against children
+2025,Indore,21.7,Crime against children
+2025,Jaipur,30.7,Crime against children
+2025,Kanpur,29.2,Crime against children
+2025,Kochi,21.2,Crime against children
+2025,Kolkata,141.1,Crime against children
+2025,Kozhikode,20.3,Crime against children
+2025,Lucknow,29,Crime against children
+2025,Mumbai,184.1,Crime against children
+2025,Nagpur,25,Crime against children
+2025,Patna,20.5,Crime against children
+2025,Pune,50.5,Crime against children
+2025,Surat,45.8,Crime against children
+2025,Ahmedabad,63.5,Crime Committed by Juveniles
+2025,Bengaluru,85,Crime Committed by Juveniles
+2025,Chennai,87,Crime Committed by Juveniles
+2025,Coimbatore,21.5,Crime Committed by Juveniles
+2025,Delhi,163.1,Crime Committed by Juveniles
+2025,Hyderabad,77.5,Crime Committed by Juveniles
+2025,Indore,21.7,Crime Committed by Juveniles
+2025,Jaipur,30.7,Crime Committed by Juveniles
+2025,Kanpur,29.2,Crime Committed by Juveniles
+2025,Kochi,21.2,Crime Committed by Juveniles
+2025,Kolkata,141.1,Crime Committed by Juveniles
+2025,Kozhikode,20.3,Crime Committed by Juveniles
+2025,Lucknow,29,Crime Committed by Juveniles
+2025,Mumbai,184.1,Crime Committed by Juveniles
+2025,Nagpur,25,Crime Committed by Juveniles
+2025,Patna,20.5,Crime Committed by Juveniles
+2025,Pune,50.5,Crime Committed by Juveniles
+2025,Surat,45.8,Crime Committed by Juveniles
+2025,Ghaziabad,63.5,Crime Committed by Juveniles
+2025,Ahmedabad,63.5,Crime against Senior Citizen
+2025,Bengaluru,85,Crime against Senior Citizen
+2025,Chennai,87,Crime against Senior Citizen
+2025,Coimbatore,21.5,Crime against Senior Citizen
+2025,Delhi,163.1,Crime against Senior Citizen
+2025,Hyderabad,77.5,Crime against Senior Citizen
+2025,Indore,21.7,Crime against Senior Citizen
+2025,Jaipur,30.7,Crime against Senior Citizen
+2025,Kochi,21.2,Crime against Senior Citizen
+2025,Kolkata,141.1,Crime against Senior Citizen
+2025,Kozhikode,20.3,Crime against Senior Citizen
+2025,Lucknow,29,Crime against Senior Citizen
+2025,Mumbai,184.1,Crime against Senior Citizen
+2025,Nagpur,25,Crime against Senior Citizen
+2025,Pune,50.5,Crime against Senior Citizen
+2025,Surat,45.8,Crime against Senior Citizen
+2025,Ghaziabad,63.5,Crime against Senior Citizen
+2025,Kanpur,63.5,Crime against Senior Citizen
+2025,Patna,63.5,Crime against Senior Citizen
+2025,Ahmedabad,63.5,Crime against SC
+2025,Bengaluru,85,Crime against SC
+2025,Chennai,87,Crime against SC
+2025,Coimbatore,21.5,Crime against SC
+2025,Delhi,163.1,Crime against SC
+2025,Ghaziabad,23.6,Crime against SC
+2025,Hyderabad,77.5,Crime against SC
+2025,Indore,21.7,Crime against SC
+2025,Jaipur,30.7,Crime against SC
+2025,Kanpur,29.2,Crime against SC
+2025,Kochi,21.2,Crime against SC
+2025,Kolkata,141.1,Crime against SC
+2025,Kozhikode,20.3,Crime against SC
+2025,Lucknow,29,Crime against SC
+2025,Mumbai,184.1,Crime against SC
+2025,Nagpur,25,Crime against SC
+2025,Patna,20.5,Crime against SC
+2025,Pune,50.5,Crime against SC
+2025,Surat,45.8,Crime against SC
+2025,Ahmedabad,63.5,Crime against ST
+2025,Bengaluru,85,Crime against ST
+2025,Delhi,163.1,Crime against ST
+2025,Hyderabad,77.5,Crime against ST
+2025,Indore,21.7,Crime against ST
+2025,Jaipur,30.7,Crime against ST
+2025,Kochi,21.2,Crime against ST
+2025,Kozhikode,20.3,Crime against ST
+2025,Mumbai,184.1,Crime against ST
+2025,Nagpur,25,Crime against ST
+2025,Pune,50.5,Crime against ST
+2025,Surat,45.8,Crime against ST
+2025,Ghaziabad,63.5,Crime against ST
+2025,Kanpur,63.5,Crime against ST
+2025,Kolkata,63.5,Crime against ST
+2025,Lucknow,63.5,Crime against ST
+2025,Patna,63.5,Crime against ST
+2025,Ahmedabad,63.5,Economic Offences
+2025,Bengaluru,85,Economic Offences
+2025,Chennai,87,Economic Offences
+2025,Coimbatore,21.5,Economic Offences
+2025,Delhi,163.1,Economic Offences
+2025,Ghaziabad,23.6,Economic Offences
+2025,Hyderabad,77.5,Economic Offences
+2025,Indore,21.7,Economic Offences
+2025,Jaipur,30.7,Economic Offences
+2025,Kanpur,29.2,Economic Offences
+2025,Kochi,21.2,Economic Offences
+2025,Kolkata,141.1,Economic Offences
+2025,Kozhikode,20.3,Economic Offences
+2025,Lucknow,29,Economic Offences
+2025,Mumbai,184.1,Economic Offences
+2025,Nagpur,25,Economic Offences
+2025,Patna,20.5,Economic Offences
+2025,Pune,50.5,Economic Offences
+2025,Surat,45.8,Economic Offences
+2025,Ahmedabad,63.5,Cyber Crimes
+2025,Bengaluru,85,Cyber Crimes
+2025,Chennai,87,Cyber Crimes
+2025,Coimbatore,21.5,Cyber Crimes
+2025,Delhi,163.1,Cyber Crimes
+2025,Ghaziabad,23.6,Cyber Crimes
+2025,Hyderabad,77.5,Cyber Crimes
+2025,Indore,21.7,Cyber Crimes
+2025,Jaipur,30.7,Cyber Crimes
+2025,Kanpur,29.2,Cyber Crimes
+2025,Kochi,21.2,Cyber Crimes
+2025,Kolkata,141.1,Cyber Crimes
+2025,Kozhikode,20.3,Cyber Crimes
+2025,Lucknow,29,Cyber Crimes
+2025,Mumbai,184.1,Cyber Crimes
+2025,Nagpur,25,Cyber Crimes
+2025,Patna,20.5,Cyber Crimes
+2025,Pune,50.5,Cyber Crimes
+2025,Surat,45.8,Cyber Crimes
+2025,Chennai,87,Crime against ST
+2025,Coimbatore,21.5,Crime against ST

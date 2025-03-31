@@ -1,0 +1,191 @@
+Year,City,Population (in Lakhs) (2011)+,Type,Predicted_CRPI,Est-Pop-for-Given-Year,Pred-Cases,Crime_Status
+2025,Ahmedabad,63.5,Murder,1.5275590551181102,72.39,111.0,Low Crime Area
+2025,Bengaluru,85.0,Murder,2.1058823529411765,96.9,204.0,Low Crime Area
+2025,Chennai,87.0,Murder,1.8505747126436785,99.18,184.0,Low Crime Area
+2025,Coimbatore,21.5,Murder,1.3953488372093024,24.51,34.0,Low Crime Area
+2025,Delhi,163.1,Murder,2.7835683629675048,185.934,518.0,Low Crime Area
+2025,Ghaziabad,23.6,Murder,1.059322033898305,26.904000000000003,28.0,Low Crime Area
+2025,Hyderabad,77.5,Murder,0.9161290322580644,88.35,81.0,Very Low Crime Area
+2025,Indore,21.7,Murder,2.488479262672811,24.738,62.0,Low Crime Area
+2025,Jaipur,30.7,Murder,3.0944625407166124,34.998,108.0,Low Crime Area
+2025,Kanpur,29.2,Murder,1.404109589041096,33.288,47.0,Low Crime Area
+2025,Kochi,21.2,Murder,0.4716981132075472,24.168,11.0,Very Low Crime Area
+2025,Kolkata,141.1,Murder,0.3189227498228207,160.85399999999998,51.0,Very Low Crime Area
+2025,Kozhikode,20.3,Murder,0.2463054187192118,23.142000000000003,6.0,Very Low Crime Area
+2025,Lucknow,29.0,Murder,3.4827586206896552,33.06,115.0,Low Crime Area
+2025,Mumbai,184.1,Murder,0.8799565453557849,209.874,185.0,Very Low Crime Area
+2025,Nagpur,25.0,Murder,3.8,28.5,108.0,Low Crime Area
+2025,Patna,20.5,Murder,3.707317073170732,23.37,87.0,Low Crime Area
+2025,Pune,50.5,Murder,2.641921397379913,57.57,152.0,Low Crime Area
+2025,Surat,45.8,Murder,2.641921397379913,52.211999999999996,138.0,Low Crime Area
+2025,Ahmedabad,63.5,Kidnapping,2.881889763779528,72.39,209.0,Low Crime Area
+2025,Bengaluru,85.0,Kidnapping,9.541176470588235,96.9,925.0,High Crime Area
+2025,Chennai,87.0,Kidnapping,0.8160919540229885,99.18,81.0,Very Low Crime Area
+2025,Coimbatore,21.5,Kidnapping,0.5116279069767442,24.51,13.0,Very Low Crime Area
+2025,Delhi,163.1,Kidnapping,33.5683629675046,185.934,6242.0,Very High Crime Area
+2025,Ghaziabad,23.6,Kidnapping,2.11864406779661,26.904000000000003,57.0,Low Crime Area
+2025,Hyderabad,77.5,Kidnapping,6.619354838709677,88.35,585.0,High Crime Area
+2025,Indore,21.7,Kidnapping,21.474654377880185,24.738,531.0,Very High Crime Area
+2025,Jaipur,30.7,Kidnapping,17.32899022801303,34.998,606.0,Very High Crime Area
+2025,Kanpur,29.2,Kidnapping,5.205479452054795,33.288,173.0,High Crime Area
+2025,Kochi,21.2,Kidnapping,1.0344827586206895,24.168,25.0,Low Crime Area
+2025,Kolkata,141.1,Kidnapping,2.1828490432317507,160.85399999999998,351.0,Low Crime Area
+2025,Kozhikode,20.3,Kidnapping,1.0344827586206895,23.142000000000003,24.0,Low Crime Area
+2025,Lucknow,29.0,Kidnapping,26.655172413793103,33.06,881.0,Very High Crime Area
+2025,Mumbai,184.1,Kidnapping,11.306930693069306,209.874,2373.0,High Crime Area
+2025,Nagpur,25.0,Kidnapping,16.6,28.5,473.0,Very High Crime Area
+2025,Patna,20.5,Kidnapping,20.82926829268293,23.37,487.0,Very High Crime Area
+2025,Pune,50.5,Kidnapping,11.306930693069306,57.57,651.0,High Crime Area
+2025,Surat,45.8,Kidnapping,7.816593886462883,52.211999999999996,408.0,High Crime Area
+2025,Ahmedabad,63.5,Crime against women,24.47244094488189,72.39,1772.0,Very High Crime Area
+2025,Bengaluru,85.0,Crime against women,32.11764705882353,96.9,3112.0,Very High Crime Area
+2025,Chennai,87.0,Crime against women,10.045977011494251,99.18,996.0,High Crime Area
+2025,Coimbatore,21.5,Crime against women,8.837209302325581,24.51,217.0,High Crime Area
+2025,Delhi,163.1,Crime against women,85.72654812998161,185.934,15939.0,Very High Crime Area
+2025,Ghaziabad,23.6,Crime against women,14.44915254237288,26.904000000000003,389.0,High Crime Area
+2025,Hyderabad,77.5,Crime against women,39.354838709677416,88.35,3477.0,Very High Crime Area
+2025,Indore,21.7,Crime against women,82.67281105990784,24.738,2045.0,Very High Crime Area
+2025,Jaipur,30.7,Crime against women,92.08469055374592,34.998,3223.0,Very High Crime Area
+2025,Kanpur,29.2,Crime against women,36.16438356164384,33.288,1204.0,Very High Crime Area
+2025,Kochi,21.2,Crime against women,31.133004926108374,24.168,752.0,Very High Crime Area
+2025,Kolkata,141.1,Crime against women,12.636428065201985,160.85399999999998,2033.0,High Crime Area
+2025,Kozhikode,20.3,Crime against women,31.133004926108374,23.142000000000003,720.0,Very High Crime Area
+2025,Lucknow,29.0,Crime against women,74.51724137931035,33.06,2464.0,Very High Crime Area
+2025,Mumbai,184.1,Crime against women,30.10863661053775,209.874,6319.0,Very High Crime Area
+2025,Nagpur,25.0,Crime against women,46.24,28.5,1318.0,Very High Crime Area
+2025,Patna,20.5,Crime against women,24.146341463414632,23.37,564.0,Very High Crime Area
+2025,Pune,50.5,Crime against women,32.0,57.57,1842.0,Very High Crime Area
+2025,Surat,45.8,Crime against women,13.820960698689955,52.211999999999996,722.0,High Crime Area
+2025,Ahmedabad,63.5,Crime against children,10.881889763779528,72.39,788.0,High Crime Area
+2025,Bengaluru,85.0,Crime against children,15.788235294117648,96.9,1530.0,Very High Crime Area
+2025,Chennai,87.0,Crime against children,6.275862068965517,99.18,622.0,High Crime Area
+2025,Coimbatore,21.5,Crime against children,4.930232558139535,24.51,121.0,Low Crime Area
+2025,Delhi,163.1,Crime against children,43.09625996321275,185.934,8013.0,Very High Crime Area
+2025,Ghaziabad,23.6,Crime against children,5.932203389830508,26.904000000000003,160.0,High Crime Area
+2025,Hyderabad,77.5,Crime against children,6.025806451612903,88.35,532.0,High Crime Area
+2025,Indore,21.7,Crime against children,49.815668202764975,24.738,1232.0,Very High Crime Area
+2025,Jaipur,30.7,Crime against children,23.71335504885993,34.998,830.0,Very High Crime Area
+2025,Kanpur,29.2,Crime against children,7.02054794520548,33.288,234.0,High Crime Area
+2025,Kochi,21.2,Crime against children,6.509433962264152,24.168,157.0,High Crime Area
+2025,Kolkata,141.1,Crime against children,3.522324592487597,160.85399999999998,567.0,Low Crime Area
+2025,Kozhikode,20.3,Crime against children,6.748768472906404,23.142000000000003,156.0,High Crime Area
+2025,Lucknow,29.0,Crime against children,21.82758620689655,33.06,722.0,Very High Crime Area
+2025,Mumbai,184.1,Crime against children,15.002715915263444,209.874,3149.0,Very High Crime Area
+2025,Nagpur,25.0,Crime against children,37.44,28.5,1067.0,Very High Crime Area
+2025,Patna,20.5,Crime against children,6.682926829268292,23.37,156.0,High Crime Area
+2025,Pune,50.5,Crime against children,16.534653465346533,57.57,952.0,Very High Crime Area
+2025,Surat,45.8,Crime against children,10.458515283842797,52.211999999999996,546.0,High Crime Area
+2025,Ahmedabad,63.5,Crime Committed by Juveniles,6.078740157480315,72.39,440.0,High Crime Area
+2025,Bengaluru,85.0,Crime Committed by Juveniles,2.0823529411764707,96.9,202.0,Low Crime Area
+2025,Chennai,87.0,Crime Committed by Juveniles,5.7011494252873565,99.18,565.0,High Crime Area
+2025,Coimbatore,21.5,Crime Committed by Juveniles,0.8837209302325582,24.51,22.0,Very Low Crime Area
+2025,Delhi,163.1,Crime Committed by Juveniles,16.051502145922747,185.934,2985.0,Very High Crime Area
+2025,Hyderabad,77.5,Crime Committed by Juveniles,2.541935483870968,88.35,225.0,Low Crime Area
+2025,Indore,21.7,Crime Committed by Juveniles,9.539170506912445,24.738,236.0,High Crime Area
+2025,Jaipur,30.7,Crime Committed by Juveniles,7.231270358306189,34.998,253.0,High Crime Area
+2025,Kanpur,29.2,Crime Committed by Juveniles,0.4109589041095891,33.288,14.0,Very Low Crime Area
+2025,Kochi,21.2,Crime Committed by Juveniles,1.0377358490566038,24.168,25.0,Low Crime Area
+2025,Kolkata,141.1,Crime Committed by Juveniles,0.1771793054571226,160.85399999999998,28.0,Very Low Crime Area
+2025,Kozhikode,20.3,Crime Committed by Juveniles,1.083743842364532,23.142000000000003,25.0,Low Crime Area
+2025,Lucknow,29.0,Crime Committed by Juveniles,3.103448275862069,33.06,103.0,Low Crime Area
+2025,Mumbai,184.1,Crime Committed by Juveniles,1.8033677349266704,209.874,378.0,Low Crime Area
+2025,Nagpur,25.0,Crime Committed by Juveniles,10.96,28.5,312.0,High Crime Area
+2025,Patna,20.5,Crime Committed by Juveniles,0.4390243902439024,23.37,10.0,Very Low Crime Area
+2025,Pune,50.5,Crime Committed by Juveniles,4.811881188118812,57.57,277.0,Low Crime Area
+2025,Surat,45.8,Crime Committed by Juveniles,7.751091703056769,52.211999999999996,405.0,High Crime Area
+2025,Ghaziabad,63.5,Crime Committed by Juveniles,2.541935483870968,72.39,184.0,Low Crime Area
+2025,Ahmedabad,63.5,Crime against Senior Citizen,3.84251968503937,72.39,278.0,Low Crime Area
+2025,Bengaluru,85.0,Crime against Senior Citizen,2.788235294117647,96.9,270.0,Low Crime Area
+2025,Chennai,87.0,Crime against Senior Citizen,4.862068965517241,99.18,482.0,Low Crime Area
+2025,Coimbatore,21.5,Crime against Senior Citizen,1.4883720930232558,24.51,36.0,Low Crime Area
+2025,Delhi,163.1,Crime against Senior Citizen,7.148988350705089,185.934,1329.0,High Crime Area
+2025,Hyderabad,77.5,Crime against Senior Citizen,2.193548387096774,88.35,194.0,Low Crime Area
+2025,Indore,21.7,Crime against Senior Citizen,5.714285714285714,24.738,141.0,High Crime Area
+2025,Jaipur,30.7,Crime against Senior Citizen,4.006514657980456,34.998,140.0,Low Crime Area
+2025,Kochi,21.2,Crime against Senior Citizen,1.3207547169811322,24.168,32.0,Low Crime Area
+2025,Kolkata,141.1,Crime against Senior Citizen,0.141743444365698,160.85399999999998,23.0,Very Low Crime Area
+2025,Kozhikode,20.3,Crime against Senior Citizen,5.566502463054187,23.142000000000003,129.0,High Crime Area
+2025,Lucknow,29.0,Crime against Senior Citizen,1.793103448275862,33.06,59.0,Low Crime Area
+2025,Mumbai,184.1,Crime against Senior Citizen,7.148988350705089,209.874,1500.0,High Crime Area
+2025,Nagpur,25.0,Crime against Senior Citizen,10.0,28.5,285.0,High Crime Area
+2025,Pune,50.5,Crime against Senior Citizen,2.9702970297029703,57.57,171.0,Low Crime Area
+2025,Surat,45.8,Crime against Senior Citizen,1.4410480349344978,52.211999999999996,75.0,Low Crime Area
+2025,Ghaziabad,63.5,Crime against Senior Citizen,2.193548387096774,72.39,159.0,Low Crime Area
+2025,Kanpur,63.5,Crime against Senior Citizen,0.0,72.39,0.0,Very Low Crime Area
+2025,Patna,63.5,Crime against Senior Citizen,0.0,72.39,0.0,Very Low Crime Area
+2025,Ahmedabad,63.5,Crime against SC,2.645669291338583,72.39,192.0,Low Crime Area
+2025,Bengaluru,85.0,Crime against SC,2.645669291338583,96.9,256.0,Low Crime Area
+2025,Chennai,87.0,Crime against SC,0.264367816091954,99.18,26.0,Very Low Crime Area
+2025,Coimbatore,21.5,Crime against SC,0.8372093023255814,24.51,21.0,Very Low Crime Area
+2025,Delhi,163.1,Crime against SC,0.797057020232986,185.934,148.0,Very Low Crime Area
+2025,Ghaziabad,23.6,Crime against SC,1.7796610169491525,26.904000000000003,48.0,Low Crime Area
+2025,Hyderabad,77.5,Crime against SC,1.3419354838709678,88.35,119.0,Low Crime Area
+2025,Indore,21.7,Crime against SC,2.3963133640553,24.738,59.0,Low Crime Area
+2025,Jaipur,30.7,Crime against SC,7.6547231270358305,34.998,268.0,High Crime Area
+2025,Kanpur,29.2,Crime against SC,5.6506849315068495,33.288,188.0,High Crime Area
+2025,Kochi,21.2,Crime against SC,0.6132075471698113,24.168,15.0,Very Low Crime Area
+2025,Kolkata,141.1,Crime against SC,0.264367816091954,160.85399999999998,43.0,Very Low Crime Area
+2025,Kozhikode,20.3,Crime against SC,0.6132075471698113,23.142000000000003,14.0,Very Low Crime Area
+2025,Lucknow,29.0,Crime against SC,9.241379310344827,33.06,306.0,High Crime Area
+2025,Mumbai,184.1,Crime against SC,0.2552960347637154,209.874,54.0,Very Low Crime Area
+2025,Nagpur,25.0,Crime against SC,1.4,28.5,40.0,Low Crime Area
+2025,Patna,20.5,Crime against SC,3.2195121951219514,23.37,75.0,Low Crime Area
+2025,Pune,50.5,Crime against SC,0.5346534653465347,57.57,31.0,Very Low Crime Area
+2025,Surat,45.8,Crime against SC,0.4803493449781659,52.211999999999996,25.0,Very Low Crime Area
+2025,Ahmedabad,63.5,Crime against ST,0.2677165354330709,72.39,19.0,Very Low Crime Area
+2025,Bengaluru,85.0,Crime against ST,0.1411764705882353,96.9,14.0,Very Low Crime Area
+2025,Delhi,163.1,Crime against ST,0.0306560392397302,185.934,6.0,Very Low Crime Area
+2025,Hyderabad,77.5,Crime against ST,0.3354838709677419,88.35,30.0,Very Low Crime Area
+2025,Indore,21.7,Crime against ST,0.599078341013825,24.738,15.0,Very Low Crime Area
+2025,Jaipur,30.7,Crime against ST,5.048859934853421,34.998,177.0,High Crime Area
+2025,Kochi,21.2,Crime against ST,0.0943396226415094,24.168,2.0,Very Low Crime Area
+2025,Kozhikode,20.3,Crime against ST,0.0492610837438423,23.142000000000003,1.0,Very Low Crime Area
+2025,Mumbai,184.1,Crime against ST,0.0162954915806626,209.874,3.0,Very Low Crime Area
+2025,Nagpur,25.0,Crime against ST,0.28,28.5,8.0,Very Low Crime Area
+2025,Pune,50.5,Crime against ST,0.0396039603960396,57.57,2.0,Very Low Crime Area
+2025,Surat,45.8,Crime against ST,0.2620087336244541,52.211999999999996,14.0,Very Low Crime Area
+2025,Ghaziabad,63.5,Crime against ST,0.0,72.39,0.0,Very Low Crime Area
+2025,Kanpur,63.5,Crime against ST,0.0,72.39,0.0,Very Low Crime Area
+2025,Kolkata,63.5,Crime against ST,0.0,72.39,0.0,Very Low Crime Area
+2025,Lucknow,63.5,Crime against ST,0.0,72.39,0.0,Very Low Crime Area
+2025,Patna,63.5,Crime against ST,0.0396039603960396,72.39,3.0,Very Low Crime Area
+2025,Ahmedabad,63.5,Economic Offences,12.047244094488187,72.39,872.0,High Crime Area
+2025,Bengaluru,85.0,Economic Offences,31.94117647058824,96.9,3095.0,Very High Crime Area
+2025,Chennai,87.0,Economic Offences,9.32183908045977,99.18,925.0,High Crime Area
+2025,Coimbatore,21.5,Economic Offences,8.465116279069768,24.51,207.0,High Crime Area
+2025,Delhi,163.1,Economic Offences,31.281422440220723,185.934,5816.0,Very High Crime Area
+2025,Ghaziabad,23.6,Economic Offences,16.01694915254237,26.904000000000003,431.0,Very High Crime Area
+2025,Hyderabad,77.5,Economic Offences,62.70967741935484,88.35,5540.0,Very High Crime Area
+2025,Indore,21.7,Economic Offences,18.202764976958527,24.738,450.0,Very High Crime Area
+2025,Jaipur,30.7,Economic Offences,104.78827361563518,34.998,3667.0,Very High Crime Area
+2025,Kanpur,29.2,Economic Offences,14.82876712328767,33.288,494.0,High Crime Area
+2025,Kochi,21.2,Economic Offences,22.68867924528302,24.168,548.0,Very High Crime Area
+2025,Kolkata,141.1,Economic Offences,14.720056697377746,160.85399999999998,2368.0,High Crime Area
+2025,Kozhikode,20.3,Economic Offences,15.320197044334977,23.142000000000003,355.0,Very High Crime Area
+2025,Lucknow,29.0,Economic Offences,118.6206896551724,33.06,3922.0,Very High Crime Area
+2025,Mumbai,184.1,Economic Offences,30.80391091797936,209.874,6465.0,Very High Crime Area
+2025,Nagpur,25.0,Economic Offences,21.64,28.5,617.0,Very High Crime Area
+2025,Patna,20.5,Economic Offences,74.8780487804878,23.37,1750.0,Very High Crime Area
+2025,Pune,50.5,Economic Offences,13.96039603960396,57.57,804.0,High Crime Area
+2025,Surat,45.8,Economic Offences,14.475982532751091,52.211999999999996,756.0,High Crime Area
+2025,Ahmedabad,63.5,Cyber Crimes,7.039370078740157,72.39,510.0,High Crime Area
+2025,Bengaluru,85.0,Cyber Crimes,104.61176470588236,96.9,10137.0,Very High Crime Area
+2025,Chennai,87.0,Cyber Crimes,0.8735632183908046,99.18,87.0,Very Low Crime Area
+2025,Coimbatore,21.5,Cyber Crimes,2.046511627906977,24.51,50.0,Low Crime Area
+2025,Delhi,163.1,Cyber Crimes,2.1152667075413856,185.934,393.0,Low Crime Area
+2025,Ghaziabad,23.6,Cyber Crimes,19.110169491525426,26.904000000000003,514.0,Very High Crime Area
+2025,Hyderabad,77.5,Cyber Crimes,42.61935483870968,88.35,3765.0,Very High Crime Area
+2025,Indore,21.7,Cyber Crimes,1.7050691244239633,24.738,42.0,Low Crime Area
+2025,Jaipur,30.7,Cyber Crimes,8.273615635179153,34.998,290.0,High Crime Area
+2025,Kanpur,29.2,Cyber Crimes,15.376712328767123,33.288,512.0,Very High Crime Area
+2025,Kochi,21.2,Cyber Crimes,2.2641509433962264,24.168,55.0,Low Crime Area
+2025,Kolkata,141.1,Cyber Crimes,1.8226600985221677,160.85399999999998,293.0,Low Crime Area
+2025,Kozhikode,20.3,Cyber Crimes,1.8226600985221677,23.142000000000003,42.0,Low Crime Area
+2025,Lucknow,29.0,Cyber Crimes,36.793103448275865,33.06,1216.0,Very High Crime Area
+2025,Mumbai,184.1,Cyber Crimes,15.65996740901684,209.874,3287.0,Very High Crime Area
+2025,Nagpur,25.0,Cyber Crimes,7.68,28.5,219.0,High Crime Area
+2025,Patna,20.5,Cyber Crimes,14.829268292682928,23.37,347.0,High Crime Area
+2025,Pune,50.5,Cyber Crimes,4.455445544554456,57.57,256.0,Low Crime Area
+2025,Surat,45.8,Cyber Crimes,6.462882096069869,52.211999999999996,337.0,High Crime Area
+2025,Chennai,87.0,Crime against ST,0.0,99.18,0.0,Very Low Crime Area
+2025,Coimbatore,21.5,Crime against ST,0.0,24.51,0.0,Very Low Crime Area

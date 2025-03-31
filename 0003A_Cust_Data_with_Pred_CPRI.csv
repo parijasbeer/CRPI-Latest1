@@ -1,0 +1,191 @@
+Year,City,Population (in Lakhs) (2011)+,Type,Predicted_CPRI
+2025,Ahmedabad,63.5,Murder,1.5275590551181102
+2025,Bengaluru,85.0,Murder,2.1058823529411765
+2025,Chennai,87.0,Murder,1.8505747126436785
+2025,Coimbatore,21.5,Murder,1.3953488372093024
+2025,Delhi,163.1,Murder,2.7835683629675048
+2025,Ghaziabad,23.6,Murder,1.059322033898305
+2025,Hyderabad,77.5,Murder,0.9161290322580644
+2025,Indore,21.7,Murder,2.488479262672811
+2025,Jaipur,30.7,Murder,3.0944625407166124
+2025,Kanpur,29.2,Murder,1.404109589041096
+2025,Kochi,21.2,Murder,0.4716981132075472
+2025,Kolkata,141.1,Murder,0.3189227498228207
+2025,Kozhikode,20.3,Murder,0.2463054187192118
+2025,Lucknow,29.0,Murder,3.4827586206896552
+2025,Mumbai,184.1,Murder,0.8799565453557849
+2025,Nagpur,25.0,Murder,3.8
+2025,Patna,20.5,Murder,3.707317073170732
+2025,Pune,50.5,Murder,2.641921397379913
+2025,Surat,45.8,Murder,2.641921397379913
+2025,Ahmedabad,63.5,Kidnapping,2.881889763779528
+2025,Bengaluru,85.0,Kidnapping,9.541176470588235
+2025,Chennai,87.0,Kidnapping,0.8160919540229885
+2025,Coimbatore,21.5,Kidnapping,0.5116279069767442
+2025,Delhi,163.1,Kidnapping,33.5683629675046
+2025,Ghaziabad,23.6,Kidnapping,2.11864406779661
+2025,Hyderabad,77.5,Kidnapping,6.619354838709677
+2025,Indore,21.7,Kidnapping,21.474654377880185
+2025,Jaipur,30.7,Kidnapping,17.32899022801303
+2025,Kanpur,29.2,Kidnapping,5.205479452054795
+2025,Kochi,21.2,Kidnapping,1.0344827586206895
+2025,Kolkata,141.1,Kidnapping,2.1828490432317507
+2025,Kozhikode,20.3,Kidnapping,1.0344827586206895
+2025,Lucknow,29.0,Kidnapping,26.655172413793103
+2025,Mumbai,184.1,Kidnapping,11.306930693069306
+2025,Nagpur,25.0,Kidnapping,16.6
+2025,Patna,20.5,Kidnapping,20.82926829268293
+2025,Pune,50.5,Kidnapping,11.306930693069306
+2025,Surat,45.8,Kidnapping,7.816593886462883
+2025,Ahmedabad,63.5,Crime against women,24.47244094488189
+2025,Bengaluru,85.0,Crime against women,32.11764705882353
+2025,Chennai,87.0,Crime against women,10.045977011494251
+2025,Coimbatore,21.5,Crime against women,8.837209302325581
+2025,Delhi,163.1,Crime against women,85.72654812998161
+2025,Ghaziabad,23.6,Crime against women,14.44915254237288
+2025,Hyderabad,77.5,Crime against women,39.354838709677416
+2025,Indore,21.7,Crime against women,82.67281105990784
+2025,Jaipur,30.7,Crime against women,92.08469055374592
+2025,Kanpur,29.2,Crime against women,36.16438356164384
+2025,Kochi,21.2,Crime against women,31.133004926108374
+2025,Kolkata,141.1,Crime against women,12.636428065201985
+2025,Kozhikode,20.3,Crime against women,31.133004926108374
+2025,Lucknow,29.0,Crime against women,74.51724137931035
+2025,Mumbai,184.1,Crime against women,30.10863661053775
+2025,Nagpur,25.0,Crime against women,46.24
+2025,Patna,20.5,Crime against women,24.146341463414632
+2025,Pune,50.5,Crime against women,32.0
+2025,Surat,45.8,Crime against women,13.820960698689955
+2025,Ahmedabad,63.5,Crime against children,10.881889763779528
+2025,Bengaluru,85.0,Crime against children,15.788235294117648
+2025,Chennai,87.0,Crime against children,6.275862068965517
+2025,Coimbatore,21.5,Crime against children,4.930232558139535
+2025,Delhi,163.1,Crime against children,43.09625996321275
+2025,Ghaziabad,23.6,Crime against children,5.932203389830508
+2025,Hyderabad,77.5,Crime against children,6.025806451612903
+2025,Indore,21.7,Crime against children,49.815668202764975
+2025,Jaipur,30.7,Crime against children,23.71335504885993
+2025,Kanpur,29.2,Crime against children,7.02054794520548
+2025,Kochi,21.2,Crime against children,6.509433962264152
+2025,Kolkata,141.1,Crime against children,3.522324592487597
+2025,Kozhikode,20.3,Crime against children,6.748768472906404
+2025,Lucknow,29.0,Crime against children,21.82758620689655
+2025,Mumbai,184.1,Crime against children,15.002715915263444
+2025,Nagpur,25.0,Crime against children,37.44
+2025,Patna,20.5,Crime against children,6.682926829268292
+2025,Pune,50.5,Crime against children,16.534653465346533
+2025,Surat,45.8,Crime against children,10.458515283842797
+2025,Ahmedabad,63.5,Crime Committed by Juveniles,6.078740157480315
+2025,Bengaluru,85.0,Crime Committed by Juveniles,2.0823529411764707
+2025,Chennai,87.0,Crime Committed by Juveniles,5.7011494252873565
+2025,Coimbatore,21.5,Crime Committed by Juveniles,0.8837209302325582
+2025,Delhi,163.1,Crime Committed by Juveniles,16.051502145922747
+2025,Hyderabad,77.5,Crime Committed by Juveniles,2.541935483870968
+2025,Indore,21.7,Crime Committed by Juveniles,9.539170506912445
+2025,Jaipur,30.7,Crime Committed by Juveniles,7.231270358306189
+2025,Kanpur,29.2,Crime Committed by Juveniles,0.4109589041095891
+2025,Kochi,21.2,Crime Committed by Juveniles,1.0377358490566038
+2025,Kolkata,141.1,Crime Committed by Juveniles,0.1771793054571226
+2025,Kozhikode,20.3,Crime Committed by Juveniles,1.083743842364532
+2025,Lucknow,29.0,Crime Committed by Juveniles,3.103448275862069
+2025,Mumbai,184.1,Crime Committed by Juveniles,1.8033677349266704
+2025,Nagpur,25.0,Crime Committed by Juveniles,10.96
+2025,Patna,20.5,Crime Committed by Juveniles,0.4390243902439024
+2025,Pune,50.5,Crime Committed by Juveniles,4.811881188118812
+2025,Surat,45.8,Crime Committed by Juveniles,7.751091703056769
+2025,Ghaziabad,63.5,Crime Committed by Juveniles,2.541935483870968
+2025,Ahmedabad,63.5,Crime against Senior Citizen,3.84251968503937
+2025,Bengaluru,85.0,Crime against Senior Citizen,2.788235294117647
+2025,Chennai,87.0,Crime against Senior Citizen,4.862068965517241
+2025,Coimbatore,21.5,Crime against Senior Citizen,1.4883720930232558
+2025,Delhi,163.1,Crime against Senior Citizen,7.148988350705089
+2025,Hyderabad,77.5,Crime against Senior Citizen,2.193548387096774
+2025,Indore,21.7,Crime against Senior Citizen,5.714285714285714
+2025,Jaipur,30.7,Crime against Senior Citizen,4.006514657980456
+2025,Kochi,21.2,Crime against Senior Citizen,1.3207547169811322
+2025,Kolkata,141.1,Crime against Senior Citizen,0.141743444365698
+2025,Kozhikode,20.3,Crime against Senior Citizen,5.566502463054187
+2025,Lucknow,29.0,Crime against Senior Citizen,1.793103448275862
+2025,Mumbai,184.1,Crime against Senior Citizen,7.148988350705089
+2025,Nagpur,25.0,Crime against Senior Citizen,10.0
+2025,Pune,50.5,Crime against Senior Citizen,2.9702970297029703
+2025,Surat,45.8,Crime against Senior Citizen,1.4410480349344978
+2025,Ghaziabad,63.5,Crime against Senior Citizen,2.193548387096774
+2025,Kanpur,63.5,Crime against Senior Citizen,0.0
+2025,Patna,63.5,Crime against Senior Citizen,0.0
+2025,Ahmedabad,63.5,Crime against SC,2.645669291338583
+2025,Bengaluru,85.0,Crime against SC,2.645669291338583
+2025,Chennai,87.0,Crime against SC,0.264367816091954
+2025,Coimbatore,21.5,Crime against SC,0.8372093023255814
+2025,Delhi,163.1,Crime against SC,0.797057020232986
+2025,Ghaziabad,23.6,Crime against SC,1.7796610169491525
+2025,Hyderabad,77.5,Crime against SC,1.3419354838709678
+2025,Indore,21.7,Crime against SC,2.3963133640553
+2025,Jaipur,30.7,Crime against SC,7.6547231270358305
+2025,Kanpur,29.2,Crime against SC,5.6506849315068495
+2025,Kochi,21.2,Crime against SC,0.6132075471698113
+2025,Kolkata,141.1,Crime against SC,0.264367816091954
+2025,Kozhikode,20.3,Crime against SC,0.6132075471698113
+2025,Lucknow,29.0,Crime against SC,9.241379310344827
+2025,Mumbai,184.1,Crime against SC,0.2552960347637154
+2025,Nagpur,25.0,Crime against SC,1.4
+2025,Patna,20.5,Crime against SC,3.2195121951219514
+2025,Pune,50.5,Crime against SC,0.5346534653465347
+2025,Surat,45.8,Crime against SC,0.4803493449781659
+2025,Ahmedabad,63.5,Crime against ST,0.2677165354330709
+2025,Bengaluru,85.0,Crime against ST,0.1411764705882353
+2025,Delhi,163.1,Crime against ST,0.0306560392397302
+2025,Hyderabad,77.5,Crime against ST,0.3354838709677419
+2025,Indore,21.7,Crime against ST,0.599078341013825
+2025,Jaipur,30.7,Crime against ST,5.048859934853421
+2025,Kochi,21.2,Crime against ST,0.0943396226415094
+2025,Kozhikode,20.3,Crime against ST,0.0492610837438423
+2025,Mumbai,184.1,Crime against ST,0.0162954915806626
+2025,Nagpur,25.0,Crime against ST,0.28
+2025,Pune,50.5,Crime against ST,0.0396039603960396
+2025,Surat,45.8,Crime against ST,0.2620087336244541
+2025,Ghaziabad,63.5,Crime against ST,0.0
+2025,Kanpur,63.5,Crime against ST,0.0
+2025,Kolkata,63.5,Crime against ST,0.0
+2025,Lucknow,63.5,Crime against ST,0.0
+2025,Patna,63.5,Crime against ST,0.0396039603960396
+2025,Ahmedabad,63.5,Economic Offences,12.047244094488187
+2025,Bengaluru,85.0,Economic Offences,31.94117647058824
+2025,Chennai,87.0,Economic Offences,9.32183908045977
+2025,Coimbatore,21.5,Economic Offences,8.465116279069768
+2025,Delhi,163.1,Economic Offences,31.281422440220723
+2025,Ghaziabad,23.6,Economic Offences,16.01694915254237
+2025,Hyderabad,77.5,Economic Offences,62.70967741935484
+2025,Indore,21.7,Economic Offences,18.202764976958527
+2025,Jaipur,30.7,Economic Offences,104.78827361563518
+2025,Kanpur,29.2,Economic Offences,14.82876712328767
+2025,Kochi,21.2,Economic Offences,22.68867924528302
+2025,Kolkata,141.1,Economic Offences,14.720056697377746
+2025,Kozhikode,20.3,Economic Offences,15.320197044334977
+2025,Lucknow,29.0,Economic Offences,118.6206896551724
+2025,Mumbai,184.1,Economic Offences,30.80391091797936
+2025,Nagpur,25.0,Economic Offences,21.64
+2025,Patna,20.5,Economic Offences,74.8780487804878
+2025,Pune,50.5,Economic Offences,13.96039603960396
+2025,Surat,45.8,Economic Offences,14.475982532751091
+2025,Ahmedabad,63.5,Cyber Crimes,7.039370078740157
+2025,Bengaluru,85.0,Cyber Crimes,104.61176470588236
+2025,Chennai,87.0,Cyber Crimes,0.8735632183908046
+2025,Coimbatore,21.5,Cyber Crimes,2.046511627906977
+2025,Delhi,163.1,Cyber Crimes,2.1152667075413856
+2025,Ghaziabad,23.6,Cyber Crimes,19.110169491525426
+2025,Hyderabad,77.5,Cyber Crimes,42.61935483870968
+2025,Indore,21.7,Cyber Crimes,1.7050691244239633
+2025,Jaipur,30.7,Cyber Crimes,8.273615635179153
+2025,Kanpur,29.2,Cyber Crimes,15.376712328767123
+2025,Kochi,21.2,Cyber Crimes,2.2641509433962264
+2025,Kolkata,141.1,Cyber Crimes,1.8226600985221677
+2025,Kozhikode,20.3,Cyber Crimes,1.8226600985221677
+2025,Lucknow,29.0,Cyber Crimes,36.793103448275865
+2025,Mumbai,184.1,Cyber Crimes,15.65996740901684
+2025,Nagpur,25.0,Cyber Crimes,7.68
+2025,Patna,20.5,Cyber Crimes,14.829268292682928
+2025,Pune,50.5,Cyber Crimes,4.455445544554456
+2025,Surat,45.8,Cyber Crimes,6.462882096069869
+2025,Chennai,87.0,Crime against ST,0.0
+2025,Coimbatore,21.5,Crime against ST,0.0
